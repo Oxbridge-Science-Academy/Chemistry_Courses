@@ -12,4 +12,4 @@ How many radial nodes will the 4s orbital have?
 ### Q12
 Derive an expression in terms of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \gamma"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \delta"> for the distances from the nucleus <img src="https://render.githubusercontent.com/render/math?math=\displaystyle r_1"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle r_2"> where the 3s orbital has a radial node. 
  
-<img src="https://render.githubusercontent.com/render/math?math=R_{3s}(r)="> <img src="https://render.githubusercontent.com/render/math?math=(\gamma - \delta r + "> + <img src="https://render.githubusercontent.com/render/math?math=r^2)e^{-3r\eta}">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle R_{3s}(r)="> <img src="https://render.githubusercontent.com/render/math?math=\displaystyle (\gamma - \delta r + "> + <img src="https://render.githubusercontent.com/render/math?math=\displaystyle r^2)e^{-3r\eta}">
