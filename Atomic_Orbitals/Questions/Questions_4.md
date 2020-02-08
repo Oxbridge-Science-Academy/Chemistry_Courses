@@ -2,8 +2,11 @@
 
 ### Q10
 Shown below is the contour plot for the 3s orbital in the <img src="https://render.githubusercontent.com/render/math?math=\displaystyle xy"> plane. Make a sketch of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \psi"> against <img src="https://render.githubusercontent.com/render/math?math=\displaystyle x"> as you traverse the red line which represents the <img src="https://render.githubusercontent.com/render/math?math=\displaystyle x"> axis.
- 
+
 Mark on any radial nodes. (Full contours represent positive values of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \psi">, dashed contours represent negative values of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \psi">)
+
+ 
+![alt text](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Atomic_Orbitals/Figures/3s%20contour.png)
 
 
 ### Q11
