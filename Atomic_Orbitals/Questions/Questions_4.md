@@ -1,4 +1,4 @@
-# Questions - Set 3
+# Questions - Set 4
 
 ### Q10
 Shown below is the contour plot for the 3s orbital in the <img src="https://render.githubusercontent.com/render/math?math=\displaystyle xy"> plane. Make a sketch of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \psi"> against <img src="https://render.githubusercontent.com/render/math?math=\displaystyle x"> as you traverse the red line which represents the <img src="https://render.githubusercontent.com/render/math?math=\displaystyle x"> axis.
