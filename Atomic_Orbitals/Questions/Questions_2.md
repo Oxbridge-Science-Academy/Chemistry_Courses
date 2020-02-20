@@ -9,7 +9,7 @@ iii. y
 
  
 ### Q5 
-Planes in 3-dimensional space can be expressed in terms of <img src="https://render.githubusercontent.com/render/math?math=\theta"> and/or <img src="https://render.githubusercontent.com/render/math?math=\phi">. For example, <img src="https://render.githubusercontent.com/render/math?math=\theta=0"> and<img src="https://render.githubusercontent.com/render/math?math=\phi=0"> describes the xy plane (also known as the z=0 plane). \
+Planes in 3-dimensional space can be expressed in terms of <img src="https://render.githubusercontent.com/render/math?math=\theta"> and/or <img src="https://render.githubusercontent.com/render/math?math=\phi">. For example, <img src="https://render.githubusercontent.com/render/math?math=\theta=0"> and<img src="https://render.githubusercontent.com/render/math?math=\phi=0"> describes the xy plane (also known as the z=0 plane). 
 
 Give the Cartesian expressions for the following planes described by spherical polar coordinates. Parts i. and ii. use degrees and iii. and iv. use radians.
 i. <img src="https://render.githubusercontent.com/render/math?math=\theta=0"> and <img src="https://render.githubusercontent.com/render/math?math=\phi=90"> \
