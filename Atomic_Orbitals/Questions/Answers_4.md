@@ -16,6 +16,6 @@ The radial nodes are found by setting the radial part of the wavefunction to zer
 
 <img src="https://render.githubusercontent.com/render/math?math=R_{3s}(r)="> <img src="https://render.githubusercontent.com/render/math?math=(\gamma - \delta r + "> + <img src="https://render.githubusercontent.com/render/math?math=r^2)e^{-3r\eta}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Rightarrow (\gamma - \delta r \+  r^2)=0"> 
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Rightarrow (\gamma - \delta r"> +<img src="https://render.githubusercontent.com/render/math?math=\displaystyle r^2)=0"> 
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Rightarrow r = \frac{\delta \pm \sqrt{(- \delta)^2 \+ 4 \gamma}}{2}"> 
+And solving...
