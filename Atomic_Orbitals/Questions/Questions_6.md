@@ -1,9 +1,9 @@
 # Questions Set 6
 
-### Q17
+### Q16
 Sketch isosurface plots of the <img src="https://render.githubusercontent.com/render/math?math=\displaystyle d_{xz}"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle d_{yz}">orbitals and indicate any nodes.
  
-### Q18
+### Q17
 Solve the equation <img src="https://render.githubusercontent.com/render/math?math=\displaystyle 3 \cos^2 \theta-1=0"> (<img src="https://render.githubusercontent.com/render/math?math=\displaystyle 0 \leq \theta < 360^o">) to find the values of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \theta"> which describe the conical angular nodes of the <img src="https://render.githubusercontent.com/render/math?math=\displaystyle d_{z^2}"> orbital.
  
 ### Q18
