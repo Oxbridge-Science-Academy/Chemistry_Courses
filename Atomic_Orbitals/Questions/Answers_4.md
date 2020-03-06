@@ -12,7 +12,7 @@ The 4s orbital will have no angular nodes (since l=0) and 3 radial nodes (n−1�
 
 ### Q12
 The radial nodes are found by setting the radial part of the wavefunction to zero. 
-R3s(r)=(γ−δr+r2)e−r3η
+
 
 <img src="https://render.githubusercontent.com/render/math?math=R_{3s}(r)="> <img src="https://render.githubusercontent.com/render/math?math=(\gamma - \delta r + "> + <img src="https://render.githubusercontent.com/render/math?math=r^2)e^{-3r\eta}">
 
