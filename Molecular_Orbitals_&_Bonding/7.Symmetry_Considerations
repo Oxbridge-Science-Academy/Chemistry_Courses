@@ -1,0 +1,11 @@
+# Symmetry Considerations
+
+The importance of symmetry in orbital interactions has already been hinted at. The symmetry of orbitals and how it affects their interactions is a mathematically rigourous and complex field and well beyond the scope of this course. However, we can still consider symmetry in a qualitative way.
+
+For two atomic orbitals to interact they must have the “correct symmetry”. What does “correct symmetry mean? For now we will take it to mean that when two AOs overlap, the interaction is clearly bonding or antibonding. 
+We will explore this with two examples.
+ 
+### Example 1
+
+Below is shown the side on interaction between a 1s1s orbital and a 2px2px orbital. Note how the s orbital is equidistant from a same phase lobe (bonding) and opposite phase lobe (anti-bonding) so there is no net interaction. 
+
