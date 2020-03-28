@@ -18,7 +18,7 @@ Using an MO diagram, suggest whether the following molecules exist based on ener
 Which of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle F_2"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle F_{2}^{-}"> is likely to be more energetically favourable?
 
 ### Q4
-Derive an expression in term of 𝜖 and/or 𝜎 for the equilibrium separation <img src="https://render.githubusercontent.com/render/math?math=\displaystyle r_{eq}"> and the minimum energy <img src="https://render.githubusercontent.com/render/math?math=\displaystyle U_{min}">.
+Derive an expression in term of 𝜖 and/or 𝜎 for the equilibrium separation <img src="https://render.githubusercontent.com/render/math?math=\displaystyle r_{eq}"> and the minimum energy <img src="https://render.githubusercontent.com/render/math?math=\displaystyle U_{min}">.What units could be used for 𝜎?
 
 ### Q5
 How does <img src="https://render.githubusercontent.com/render/math?math=\displaystyle U_{min}"> relate to the energy required to break the bond?
