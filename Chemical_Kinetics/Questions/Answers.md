@@ -129,6 +129,16 @@ The pre-exponential factor can be found from the intercept of the vertical axis.
 
 ### Q14 
 
+Consider one conversion at a time.
+
+Moles → Molecules: multiply by Avagadro's number N<sub>A</sub> = 6.02 x 10<sup>23</sup>
+
+dm<sup>-3</sup> → cm<sup>-3</sup>: Divide by 1000 as 1 dm<sup>3</sup> is equivalent to 1000 cm<sup>3</sup>
+
+s<sup>-1</sup> → min<sup>-1</sup>: Multiply by 60
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle 12 \times \frac{6.02 \times 10^{23} \times 60}{1000} = 4.3 \times 10^{23}"> molecules cm<sup>-3</sup> min<sup>-1</sup>
+
 
 
 
