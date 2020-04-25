@@ -140,5 +140,57 @@ s<sup>-1</sup> → min<sup>-1</sup>: Multiply by 60
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle 12 \times \frac{6.02 \times 10^{23} \times 60}{1000} = 4.3 \times 10^{23}"> molecules cm<sup>-3</sup> min<sup>-1</sup>
 
 
+### Q15
+
+i. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle rate = k[A][B]">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle units = \frac{mol dm^{-3}s^{-1}}{mol^2 dm^{-6}=mol^{-1}dm^3s^{-1}}">
+
+
+ii. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle rate = k[A]^2[B]^{\frac{5}{2}}">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle units = \frac{mol dm^{-3}s^{-1}}{mol^{\frac{9}{2}} dm^{-\frac{21}{2}}} = mol^{-\frac{9}{2}}dm^{\frac{15}{2}}s^{-1}">
+
+### Q16
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle E_{a-1} = E_{a1} - \Delta H">
+
+### Q17
+
+i. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_1 = A_1 e^{-\frac{E_{a1}}{RT}">
+
+ii. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_{-1} = A_{-1} e^{-\frac{E_{a-1}}{RT}">
+
+### Q18
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[O]}{dt} = 2k_1[O_2] %2B\ k_2[O_3] - k_3[O][O_2][M} - k_4[O][O_3]">
+
+### Q19
+
+The concentration of A can be calculated noting that the only reaction affecting A follows first order kinetics.
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[A]}{dt} = k_1[A]">
+ 
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Rightarrow [A]=[A]_0 e^{-k_1t}">
+
+Thus [B] can be written as:
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Rightarrow [B]=\frac{k_1}{k_2}[A] = \frac{k_1}{k_2} [A]_0 e^{-k_1t}">
+
+Finally we can write
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[C]}{dt} = k_2[B] = k_1[A]">
+
+From this we note that the rise of [C] mirrors the decrease in [A], allowing us to write:
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle -\Delta [A] = \Delta [C]">
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle [C] = [A]_0 - [A]">
+
+Thus the kinetics described on the "Concentration of Products" apply:
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle [C] = [A]_0(1-e^{-k_1t})">
 
 
