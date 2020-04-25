@@ -209,5 +209,5 @@ If B is in steady state, we can write:
 
 Rearranging:
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle [B]_{ss} = \frac{k_1[A] %2B\ k_{-2}[C]}{k_{-1} %2B\ k_{2}[B]}">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle [B]_{ss} = \frac{k_1[A] %2B\ k_{-2}[C]}{k_{-1} %2B\ k_{2}}">
 
