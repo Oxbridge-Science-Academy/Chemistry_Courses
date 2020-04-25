@@ -27,12 +27,7 @@ ii. N<sub>2</sub>O<sub>4</sub>
 
 ### Q3
 
-The bromination of propanone under acidic conditions is thought to consist of 2 steps. The overall equation is:
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle Br_2 %2B\ CH_3C(O)CH_3 \rightarrow HBr %2B\ CH_3C(O)CH_2Br ">
-
-It is found that changing [Br<sub>2</sub>] does not change the rate of reaction but the reaction is first order with respect to [CH<sub>3</sub>COCH<sub>3</sub>] and [H<sup>+</sup>]. Describe in words which species react in the first and second steps and state which is rate determining. 
-
+Coming soon
 
 ### Q4
 A first order reaction can described by the rate equation:
