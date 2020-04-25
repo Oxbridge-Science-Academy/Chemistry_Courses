@@ -120,7 +120,7 @@ Derive expressions for [A],[B] & [C] in terms of [A]=[A]<sub>0</sub>, t, k<sub>1
 ### Q20
 Now consider the situation in the previous question with the additional reactions: 
 
-<img src="https://render.githubusercontent.com/render/math?math= B \rightarrow A"> and <img src="https://render.githubusercontent.com/render/math?math= C \rightarrow B">
+<img src="https://render.githubusercontent.com/render/math?math=B \rightarrow A"> and <img src="https://render.githubusercontent.com/render/math?math=C \rightarrow B">
 
 These have rate constants k<sub>-1</sub> and k<sub>-2</sub> respectively. 
 
