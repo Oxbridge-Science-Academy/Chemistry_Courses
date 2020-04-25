@@ -159,13 +159,13 @@ ii. <img src="https://render.githubusercontent.com/render/math?math=\displaystyl
 
 ### Q17
 
-i. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_1 = A_1 e^{-\frac{E_{a1}}{RT}">
+i. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_1 = A_1 e^{-\frac{E_{a1}}{RT}}">
 
-ii. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_{-1} = A_{-1} e^{-\frac{E_{a-1}}{RT}">
+ii. <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_{-1} = A_{-1} e^{-\frac{E_{a-1}}{RT}}">
 
 ### Q18
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[O]}{dt} = 2k_1[O_2] %2B\ k_2[O_3] - k_3[O][O_2][M} - k_4[O][O_3]">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[O]}{dt} = 2k_1[O_2] %2B\ k_2[O_3] - k_3[O][O_2][M] - k_4[O][O_3]">
 
 ### Q19
 
@@ -193,4 +193,21 @@ Thus the kinetics described on the "Concentration of Products" apply:
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle [C] = [A]_0(1-e^{-k_1t})">
 
+### Q20
+
+No we have:
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[A]}{dt} = -k_1[A] %2B\ k_{-1}[B]">
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[B]}{dt} = k_1[A] - k_{-1}[B] - k_{2}[B] %2B\ k_{-2}[C]">
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[C]}{dt} = k_2[B] - k_{-2}[C]">
+
+If B is in steady state, we can write:
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{d[B]}{dt} = k_1[A] - k_{-1}[B] - k_{2}[B] %2B\ k_{-2}[C] = 0">
+
+Rearranging:
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle [B]_{ss} = \frac{k_1[A] %2B\ k_{-2}[C]}{k_{-1} %2B\ k_{2}[B]}">
 
