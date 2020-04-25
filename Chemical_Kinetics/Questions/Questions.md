@@ -115,7 +115,7 @@ with rate constants k<sub>1</sub> and k<sub>2</sub> for the first and second rea
 
 It so happens that <img src="https://render.githubusercontent.com/render/math?math=k_2 \gg k_1"> (i.e. B is in steady state) and [A]=[A]<sub>0</sub> when t=0.
 
-Derive expressions for [A],[B] & [C] in terms of [A]=[A]<sub>0</sub>, t, k<sub>1</sub> and k<sub>2</sub>. 
+Derive expressions for [A],[B] & [C] in terms of [A]<sub>0</sub>, t, k<sub>1</sub> and k<sub>2</sub>. 
  
 ### Q20
 Now consider the situation in the previous question with the additional reactions: 
